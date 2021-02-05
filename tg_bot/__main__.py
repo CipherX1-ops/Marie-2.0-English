@@ -18,9 +18,9 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-Hello {}, my name is {}! if you have any questions about how to use me please give me /help... 
+Hello {}, my name is {}. 
 
-I'm a group manager bot maintained by  [CipherX](tg://user?id={}).
+I'm a group manager bot programmed by CɪᴘʜᴇʀX 
 
 For more commands click /help.
 
@@ -33,7 +33,7 @@ Hello! my name *{}*.
 
 *Main* available commands:
  - /start: Start the bot...
- - /help: help....
+ - /help: help...
  - /donate: To find out more about donating!
  - /settings:
    - in PM: To find out what SETTINGS you have set....
