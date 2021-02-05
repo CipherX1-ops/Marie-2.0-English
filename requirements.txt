@@ -11,7 +11,7 @@ lxml
 demjson
 PyLyrics
 wget
-gTTS
+gTTS>=2.0.1
 #telegram
 zalgo_text
 pynewtonmath
